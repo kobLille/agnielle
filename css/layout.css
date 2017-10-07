@@ -23,6 +23,9 @@ body,
 }
 #header div.section {
   position: relative;
+background:#FFF url("../images/banniere1.jpg") center ;
+background-size: cover;
+
 }
 .region-header {
   float: right; /* LTR */
